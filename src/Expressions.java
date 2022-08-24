@@ -1,4 +1,4 @@
-public class MilesToKilometres {
+public class Expressions {
     public static void main(String[] args) {
 
     // a mile is equal to 1.609344
@@ -13,6 +13,9 @@ public class MilesToKilometres {
             if (score>99){ // the expression is "score>99"
                 System.out.println("You got the high score!");// the expression is ""You got the high score!""
                 score = 0;// the expression is "score = 0"
+
+                System.out.println(score);
+
             }
         }
 
