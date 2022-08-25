@@ -11,9 +11,17 @@ public class Blocks {
 //        } else {
 //            System.out.println("You Rock!");
 //        }
-        if (gameOver){
-            int finalScore = score+(levelCompleted*bonus);
-            System.out.println("Your final score was "+ finalScore );
+        if (gameOver) {
+            int finalScore = score + (levelCompleted * bonus);
+            System.out.println("Your final score was " + finalScore);
+        }
+        boolean newGameOver = true;
+        int newScore = 10000;
+        int newLevelCompleted = 8;
+        int newBonus = 200;
+        if (newGameOver) {
+            int finalScore = newScore + (newLevelCompleted * newBonus);
+            System.out.println("Your final score was " + finalScore);
         }
     }
 }
