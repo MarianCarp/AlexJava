@@ -10,6 +10,6 @@ public class Statements {
                 " test" + " and still more " +
                 "tests");
         System.out.println("So, a statement is ending with ;");
-        int anotherVariable = 50; myVariable--;System.out.println("This is another one");
+        int anotherVariable = 50; myVariable--;System.out.println("This is another one "+anotherVariable+myVariable);
     }
 }
