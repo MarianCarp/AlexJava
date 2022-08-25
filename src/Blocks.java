@@ -13,15 +13,28 @@ public class Blocks {
 //        }
         if (gameOver) {
             int finalScore = score + (levelCompleted * bonus);
+            finalScore +=1000;
             System.out.println("Your final score was " + finalScore);
         }
+        //making new variables
         boolean newGameOver = true;
         int newScore = 10000;
         int newLevelCompleted = 8;
         int newBonus = 200;
         if (newGameOver) {
             int finalScore = newScore + (newLevelCompleted * newBonus);
-            System.out.println("Your final score was " + finalScore);
+            finalScore +=1000;
+            System.out.println("Your new final score was " + finalScore);
+        }
+
+        //reusing variables
+        score = 10000;
+        levelCompleted = 8;
+        bonus = 200;
+        if (gameOver) {
+            int finalScore = score+(levelCompleted*bonus);
+            //here we "forgot" to add 1000 like previous examples...
+            System.out.println("Your final score was " +finalScore);
         }
     }
 }

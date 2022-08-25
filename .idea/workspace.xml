@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="blocks">
+    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="duplicate code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blocks.java" afterDir="false" />
     </list>
@@ -25,6 +25,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2DoPX1P0wdiJkaHJyzlE1ukDHXy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661448470871</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="duplicate code">
+      <created>1661449465837</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661449465837</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +166,7 @@
     <MESSAGE value="Statements" />
     <MESSAGE value="Statements and indenting code" />
     <MESSAGE value="blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="blocks" />
+    <MESSAGE value="duplicate code" />
+    <option name="LAST_COMMIT_MESSAGE" value="duplicate code" />
   </component>
 </project>
