@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="challenge methods">
+    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="another solution">
+      <change afterPath="$PROJECT_DIR$/src/PositiveNegativeZero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodsChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodsChallenge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MethodsChallenge">
+  <component name="RunManager" selected="Application.PositiveNegativeZero">
     <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Blocks" />
       <module name="AlexJava" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statements" />
+    <configuration name="PositiveNegativeZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PositiveNegativeZero" />
       <module name="AlexJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PositiveNegativeZero" />
         <item itemvalue="Application.MethodsChallenge" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.ifElse" />
         <item itemvalue="Application.Blocks" />
-        <item itemvalue="Application.Statements" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661362503819</updated>
       <workItem from="1661362506047" duration="2685000" />
+      <workItem from="1661532066575" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="I create the class">
       <created>1661362894754</created>
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661456488714</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="another solution">
+      <created>1661459896105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661459896105</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +199,7 @@
     <MESSAGE value="duplicate code" />
     <MESSAGE value="duplicate code, reusing code" />
     <MESSAGE value="challenge methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="challenge methods" />
+    <MESSAGE value="another solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="another solution" />
   </component>
 </project>
