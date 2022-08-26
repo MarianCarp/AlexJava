@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="SpeedConverter">
-      <change afterPath="$PROJECT_DIR$/src/MegaBytesConverter.java" afterDir="false" />
+    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="MegaBytesConverter">
+      <change afterPath="$PROJECT_DIR$/src/BarkingDog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,16 +47,16 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MegaBytesConverter">
-    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MegaBytesConverter" />
+  <component name="RunManager" selected="Application.BarkingDog">
+    <configuration name="BarkingDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarkingDog" />
       <module name="AlexJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods" />
+    <configuration name="MegaBytesConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MegaBytesConverter" />
       <module name="AlexJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BarkingDog" />
         <item itemvalue="Application.MegaBytesConverter" />
         <item itemvalue="Application.SpeedConverter" />
         <item itemvalue="Application.PositiveNegativeZero" />
         <item itemvalue="Application.MethodsChallenge" />
-        <item itemvalue="Application.Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661362503819</updated>
       <workItem from="1661362506047" duration="2685000" />
-      <workItem from="1661532066575" duration="5273000" />
+      <workItem from="1661532066575" duration="6373000" />
     </task>
     <task id="LOCAL-00001" summary="I create the class">
       <created>1661362894754</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661536157607</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MegaBytesConverter">
+      <created>1661540222368</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661540222368</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +224,7 @@
     <MESSAGE value="another solution" />
     <MESSAGE value="PositiveNegativeZero" />
     <MESSAGE value="SpeedConverter" />
-    <option name="LAST_COMMIT_MESSAGE" value="SpeedConverter" />
+    <MESSAGE value="MegaBytesConverter" />
+    <option name="LAST_COMMIT_MESSAGE" value="MegaBytesConverter" />
   </component>
 </project>
