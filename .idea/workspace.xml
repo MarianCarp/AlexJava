@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="another solution">
-      <change afterPath="$PROJECT_DIR$/src/PositiveNegativeZero.java" afterDir="false" />
+    <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="PositiveNegativeZero">
+      <change afterPath="$PROJECT_DIR$/src/SpeedConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,14 +47,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PositiveNegativeZero">
-    <configuration name="Blocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Blocks" />
-      <module name="AlexJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SpeedConverter">
     <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods" />
       <module name="AlexJava" />
@@ -75,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpeedConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpeedConverter" />
+      <module name="AlexJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ifElse" />
       <module name="AlexJava" />
@@ -84,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpeedConverter" />
         <item itemvalue="Application.PositiveNegativeZero" />
         <item itemvalue="Application.MethodsChallenge" />
         <item itemvalue="Application.Methods" />
         <item itemvalue="Application.ifElse" />
-        <item itemvalue="Application.Blocks" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661362503819</updated>
       <workItem from="1661362506047" duration="2685000" />
-      <workItem from="1661532066575" duration="1409000" />
+      <workItem from="1661532066575" duration="3758000" />
     </task>
     <task id="LOCAL-00001" summary="I create the class">
       <created>1661362894754</created>
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661459896105</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="PositiveNegativeZero">
+      <created>1661533792650</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661533792650</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,6 +208,7 @@
     <MESSAGE value="duplicate code, reusing code" />
     <MESSAGE value="challenge methods" />
     <MESSAGE value="another solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="another solution" />
+    <MESSAGE value="PositiveNegativeZero" />
+    <option name="LAST_COMMIT_MESSAGE" value="PositiveNegativeZero" />
   </component>
 </project>
