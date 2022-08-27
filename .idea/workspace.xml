@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6033351c-3868-43d1-b017-eccc95f4d0e2" name="Changes" comment="BarkingDog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlexJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlexJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +103,7 @@
       <updated>1661362503819</updated>
       <workItem from="1661362506047" duration="2685000" />
       <workItem from="1661532066575" duration="7098000" />
-      <workItem from="1661594186435" duration="365000" />
+      <workItem from="1661594186435" duration="870000" />
     </task>
     <task id="LOCAL-00001" summary="I create the class">
       <created>1661362894754</created>
@@ -202,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661541380422</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="BarkingDog">
+      <created>1661594875054</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661594875054</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
