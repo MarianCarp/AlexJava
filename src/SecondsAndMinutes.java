@@ -43,6 +43,9 @@ public class SecondsAndMinutes {
         System.out.println(getDurationString(70));
         System.out.println(getDurationString(50));
         System.out.println(getDurationString(90000,59));
+        System.out.println(getDurationString(3601,59));
+        System.out.println(getDurationString(0,59));
+
 
     }
 
