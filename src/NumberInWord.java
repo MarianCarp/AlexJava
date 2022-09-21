@@ -17,12 +17,10 @@ NOTE: Do not add main method to solution code.*/
             case 9 -> System.out.println("NINE");
             default -> System.out.println("OTHER");
         }
-
-
-
 }
-
     public static void main(String[] args) {
-        printNumberInWord(11);
+        printNumberInWord(8);
     }
+
+
 }
