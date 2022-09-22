@@ -12,17 +12,11 @@ public class NumberOfDaysInMonth {
         } else if (isLeapYear(year) && month == 2) {
             return 29;
         }
-        switch (month) {
-            case 11:
-            case 4:
-            case 6:
-            case 9:
-                return 30;
-            case 2:
-                return 28;
-            default:
-                return 31;
-        }
+        return switch (month) {
+            case 11, 4, 6, 9 -> 30;
+            case 2 -> 28;
+            default -> 31;
+        };
     }
 
     public static void main(String[] args) {
@@ -30,6 +24,11 @@ public class NumberOfDaysInMonth {
         System.out.println(isLeapYear(1600));
         System.out.println(isLeapYear(2017));
         System.out.println(isLeapYear(2000));
+        System.out.println((getDaysInMonth(1, 2020)));
+        System.out.println((getDaysInMonth(2, 2020)));
+        System.out.println((getDaysInMonth(-1, 2020)));
+        System.out.println((getDaysInMonth(1, -2020)));
+
 
 
     }
