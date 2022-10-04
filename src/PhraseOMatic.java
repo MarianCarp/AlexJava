@@ -7,6 +7,7 @@ public class PhraseOMatic {
         String[] wordListTwo = {"loosely coupled", "fatty", "goofy", "six sigma", "asynchronous", "event driven", "pub-sub", "IoT", "cloud native", "service oriented", "containerized", "serverless", "microservices", "distributed ledger"};
         String[] wordListThree = {"framework", "shop", "network", "boutique","library", "DSL", "REST API", "repository", "pipeline", "service mesh", "architecture", "perspective", "design", "orientation"};
 
+
         // find out how many words are in each list
         int oneLength = wordListOne.length;
         int twoLength = wordListTwo.length;
